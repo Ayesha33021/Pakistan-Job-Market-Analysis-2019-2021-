@@ -1,4 +1,4 @@
-# 🇵🇰 Pakistan Job Market Analysis (2019–2021)
+# Pakistan Job Market Analysis (2019–2021)
 
 ## 📌 Project Overview
 
