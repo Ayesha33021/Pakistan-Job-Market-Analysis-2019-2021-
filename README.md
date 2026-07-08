@@ -107,18 +107,30 @@ A custom skill dictionary was developed to detect technologies including:
 
 * The dataset shows strong hiring activity across multiple industries during 2019–2021.
 * Hiring demand varies across months, indicating seasonal recruitment patterns.
+<img width="1696" height="739" alt="Screenshot (184)" src="https://github.com/user-attachments/assets/6d120768-8172-45ea-96cc-4848b43802d6" />
+
+* 
 
 ### 🏢 Companies
 
 * A small number of companies account for a significant share of job advertisements, suggesting concentrated recruitment among major employers.
 
+<img width="3004" height="2303" alt="Top 10 Companies by Number of Job Postings" src="https://github.com/user-attachments/assets/43326d54-2727-48c5-bf59-c58f139c4565" />
+
+
 ### 📍 Locations
 
 * Major metropolitan cities dominate the job market, with most vacancies concentrated in Pakistan's largest economic hubs.
+*
+* <img width="3055" height="1840" alt="Top 10 Hiring Locations in Pakistan" src="https://github.com/user-attachments/assets/feabf24e-014a-432c-9dad-a4cbb8548608" />
+
 
 ### 👨‍💼 Experience
 
 * Many job postings target candidates with prior work experience, while entry-level opportunities are available but comparatively fewer.
+* <img width="2951" height="1753" alt="Top Tech Skills Extracted from Job Descriptions" src="https://github.com/user-attachments/assets/bc09db56-bd08-4335-98e9-e6e5e6d2846f" />
+
+
 
 ### 💻 Most In-Demand Technical Skills
 
@@ -141,6 +153,8 @@ The skill extraction analysis identified the following technologies among the mo
 * MySQL
 
 These results indicate that employers place strong emphasis on **web development**, **mobile application development**, **content management systems**, and **digital marketing**.
+
+<img width="2951" height="1753" alt="Top Tech Skills Extracted from Job Descriptions" src="https://github.com/user-attachments/assets/79335d66-0648-4916-a0b7-2a9e5f932da0" />
 
 ---
 
